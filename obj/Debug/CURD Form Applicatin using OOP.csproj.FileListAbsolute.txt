@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD Form Applicatin using OOP.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD_Form_Applicatin_using_OOP.Properties.Resources.resources
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD Form Applicatin using OOP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD Form Applicatin using OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\bin\Debug\CURD Form Applicatin using OOP.exe.config
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\bin\Debug\CURD Form Applicatin using OOP.exe
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\bin\Debug\CURD Form Applicatin using OOP.pdb
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD_Form_Applicatin_using_OOP.Form1.resources
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD Form Applicatin using OOP.exe
+C:\Users\USER\source\repos\CURD Form Applicatin using OOP\CURD Form Applicatin using OOP\obj\Debug\CURD Form Applicatin using OOP.pdb
